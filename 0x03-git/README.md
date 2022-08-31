@@ -12,3 +12,4 @@ Untracked files:
 	../alx-zero_day/
 
 no changes added to commit (use "git add" and/or "git commit -a")
+How to be up to date in git
